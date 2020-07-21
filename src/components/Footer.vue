@@ -5,7 +5,7 @@
             <div class="container">
               <div class="row">
                 <div class="col-sm-5">
-                  <img :src="`${url}/assets/images/logo.svg`" class="footer-logo" alt="" />
+                  <img :src="`${url}theme/assets/images/logo.svg`" class="footer-logo" alt="" />
                   <h5 class="font-weight-normal mt-4 mb-5">
                     Newspaper is your news, entertainment, music fashion website. We
                     provide you with the latest breaking news and videos straight from
@@ -36,7 +36,7 @@
                       <div class="footer-border-bottom pb-2">
                         <div class="row">
                           <div class="col-3">
-                            <img :src="`${url}/assets/images/dashboard/home_1.jpg`" alt="thumb" class="img-fluid"/>
+                            <img :src="`${url}theme/assets/images/dashboard/home_1.jpg`" alt="thumb" class="img-fluid"/>
                           </div>
                           <div class="col-9">
                             <h5 class="font-weight-600">
@@ -53,7 +53,7 @@
                       <div class="footer-border-bottom pb-2 pt-2">
                         <div class="row">
                           <div class="col-3">
-                            <img :src="`${url}/assets/images/dashboard/home_2.jpg`" alt="thumb" class="img-fluid"/>
+                            <img :src="`${url}theme/assets/images/dashboard/home_2.jpg`" alt="thumb" class="img-fluid"/>
                           </div>
                           <div class="col-9">
                             <h5 class="font-weight-600">
@@ -70,7 +70,7 @@
                       <div>
                         <div class="row">
                           <div class="col-3">
-                            <img :src="`${url}/assets/images/dashboard/home_3.jpg`" alt="thumb" class="img-fluid"/>
+                            <img :src="`${url}theme/assets/images/dashboard/home_3.jpg`" alt="thumb" class="img-fluid"/>
                           </div>
                           <div class="col-9">
                             <h5 class="font-weight-600 mb-3">

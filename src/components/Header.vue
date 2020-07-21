@@ -42,7 +42,7 @@
 		                	<div class="d-flex justify-content-between align-items-center">
 		                  		<div>
 		                    		<a class="navbar-brand" href="#">
-		                    			<img :src="`${url}/assets/images/logo.svg`" alt=""/>
+		                    			<img :src="`${url}theme/assets/images/logo.svg`" alt=""/>
 		                    		</a>
 		                    	</div>
 		                    <div>
