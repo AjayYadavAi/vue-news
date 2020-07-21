@@ -1,49 +1,51 @@
 <template>
-  <header id="header">
-        <div class="container">
-          	<header id="header">
-	          <div class="container">
-		            <nav class="navbar navbar-expand-lg navbar-light">
-		              <div class="navbar-top">
-		                <div class="d-flex justify-content-between align-items-center">
-		                  <ul class="navbar-top-left-menu">
-		                    <li class="nav-item">
-		                      <a href="./index-inner.html" class="nav-link">Advertise</a>
-		                    </li>
-		                    <li class="nav-item">
-		                      <a href="./aboutus.html" class="nav-link">About</a>
-		                    </li>
-		                    <li class="nav-item">
-		                      <a href="#" class="nav-link">Events</a>
-		                    </li>
-		                    <li class="nav-item">
-		                      <a href="#" class="nav-link">Write for Us</a>
-		                    </li>
-		                    <li class="nav-item">
-		                      <a href="#" class="nav-link">In the Press</a>
-		                    </li>
-		                  </ul>
-		                  <ul class="navbar-top-right-menu">
-		                    <li class="nav-item">
-		                      <a href="#" class="nav-link"><i class="mdi mdi-magnify"></i></a>
-		                    </li>
-		                    <li class="nav-item">
-		                      <a href="#" class="nav-link">Login</a>
-		                    </li>
-		                    <li class="nav-item">
-		                      <a href="#" class="nav-link">Sign in</a>
-		                    </li>
-		                  </ul>
+	<header id="header">
+		<div class="container">
+			<header id="header">
+				<div class="container">
+					<nav class="navbar navbar-expand-lg navbar-light">
+						<div class="navbar-top">
+							<div class="d-flex justify-content-between 
+							align-items-center">
+								<ul class="navbar-top-left-menu">
+									<li class="nav-item">
+										<a href="./index-inner.html" class="nav-link">Advertise</a>
+									</li>
+
+				                    <li class="nav-item">
+				                    	<a href="./aboutus.html" class="nav-link">About</a>
+				                    </li>
+				                    <li class="nav-item">
+				                    	<a href="#" class="nav-link">Events</a>
+				                    </li>
+				                    <li class="nav-item">
+				                    	<a href="#" class="nav-link">Write for Us</a>
+				                    </li>
+				                    <li class="nav-item">
+				                    	<a href="#" class="nav-link">In the Press</a>
+				                    </li>
+				                </ul>
+			                    <ul class="navbar-top-right-menu">
+				                    <li class="nav-item">
+				                    	<a href="#" class="nav-link"><i class="mdi mdi-magnify"></i></a>
+				                    </li>
+				                    <li class="nav-item">
+				                    	<a href="#" class="nav-link">Login</a>
+				                    </li>
+				                    <li class="nav-item">
+				                    	<a href="#" class="nav-link">Sign in</a>
+				                    </li>
+			                    </ul>
+		                	</div>
 		                </div>
-		              </div>
-		              <div class="navbar-bottom">
-		                <div class="d-flex justify-content-between align-items-center">
-		                  <div>
-		                    <a class="navbar-brand" href="#"
-		                      ><img :src="`${url}/assets/images/logo.svg`" alt=""
-		                    /></a>
-		                  </div>
-		                  <div>
+		                <div class="navbar-bottom">
+		                	<div class="d-flex justify-content-between align-items-center">
+		                  		<div>
+		                    		<a class="navbar-brand" href="#">
+		                    			<img :src="`${url}/assets/images/logo.svg`" alt=""/>
+		                    		</a>
+		                    	</div>
+		                    <div>
 		                    <button
 		                      class="navbar-toggler"
 		                      type="button"
@@ -52,7 +54,7 @@
 		                      aria-expanded="false"
 		                      aria-label="Toggle navigation"
 		                    >
-		                      <span class="navbar-toggler-icon"></span>
+		                      	<span class="navbar-toggler-icon"></span>
 		                    </button>
 		                    <div
 		                      class="navbar-collapse justify-content-center collapse"
