@@ -400,7 +400,7 @@
                             />
                           </div>
                           <h3 class="mt-3 font-weight-600">
-                            Virus Kills Member Of Advising Iran’s Supreme
+                            Virus KillsOf Advising Iran’s Supreme
                           </h3>
                           <p class="fs-13 text-muted mb-0">
                             <span class="mr-2">Photo </span>10 Minutes ago
