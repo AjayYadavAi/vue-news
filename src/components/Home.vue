@@ -12,7 +12,7 @@
           </div>
           <div class="d-flex">
             <span class="mr-3 text-danger">Wed, March 4, 2020</span>
-            <span class="text-danger">30°C,London</span>
+            <span class="text-danger">30°C,Lndon</span>
           </div>
         </div>
       </div>
