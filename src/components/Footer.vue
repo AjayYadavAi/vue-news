@@ -9,7 +9,7 @@
                   <h5 class="font-weight-normal mt-4 mb-5">
                     Newspaper is your news, entertainment, music fashion website. We
                     provide you with the latest breaking news and videos straight from
-                    the entertainment industry.
+                    the entertainment .
                   </h5>
                   <ul class="social-media mb-3">
                     <li>
