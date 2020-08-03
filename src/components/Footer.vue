@@ -7,7 +7,7 @@
                 <div class="col-sm-5">
                   <img :src="`${url}theme/assets/images/logo.svg`" class="footer-logo" alt="" />
                   <h5 class="font-weight-normal mt-4 mb-5">
-                    Newspaper is your news, entertainment, music fashion website. We
+                    Newspaper is your news, music fashion website. We
                     provide you with the latest breaking news and videos straight from
                     the entertainment .
                   </h5>
